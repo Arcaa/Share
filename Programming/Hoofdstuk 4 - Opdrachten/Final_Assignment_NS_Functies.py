@@ -30,7 +30,7 @@ def ritprijs(leeftijd, weekendrit, afstandKM):
         else:
             prijs = ritPrijs
 
-    print(prijs)
+    print(round(prijs,2))
 
 
 
